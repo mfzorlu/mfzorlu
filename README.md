@@ -10,4 +10,4 @@ Currently learning RTOS and deepening my STM32 knowledge.
 [LeetCode](https://leetcode.com/u/mfurkanzorlu/) · [TryHackMe](https://tryhackme.com/p/mfurkanzorlu)
 
 ## Tech Stack
-`C` `C++` `Python` `STM32`
+`C` `C++` `Python` `STM32` `Linux`
