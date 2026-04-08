@@ -7,7 +7,7 @@ I enjoy building things that run close to the metal.
 Currently learning RTOS and deepening my STM32 knowledge.
 
 ## Profiles
-[LeetCode](https://leetcode.com/u/mfurkanzorlu/) · [TryHackMe](https://tryhackme.com/p/mfurkanzorlu)
+[TryHackMe](https://tryhackme.com/p/mfurkanzorlu) · [LeetCode](https://leetcode.com/u/mfurkanzorlu/) · [CodeForces](https://codeforces.com/profile/MFurkan)
 
 ## Tech Stack
 `C` `C++` `Python` `STM32` `Linux`
